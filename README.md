@@ -1,3 +1,3 @@
 # rsschool-cv
 
-<a href="https://GITHUB-USERNAME.github.io/rsschool-cv/">My CV</a>
+<a href="https://Sattor-Dev.github.io/rsschool-cv/">My CV</a>
